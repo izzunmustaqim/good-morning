@@ -1,0 +1,1 @@
+include ':calendar view', ':app', ':backend', ':badger', ':crop master', ':gesture image', ':volley'

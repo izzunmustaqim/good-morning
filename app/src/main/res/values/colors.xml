@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Activities Color -->
+    <color name="color_primary">#E7663F</color>
+    <color name="red">#FF0000</color>
+    <color name="color_primary_dark">#b95232</color>
+    <color name="color_accent">#482C13</color>
+    <color name="color_highlight">#E6E6E6</color>
+    <color name="color_secondary">#CCCCCC</color>
+    <color name="color_grey">#70635C</color>
+    <color name="color_light_blue">#95c5d1</color>
+    <color name="transparent">#AA000000</color>
+
+    <!-- Font Colors -->
+    <!-- Color requires opacity -->
+    <color name="color_primary_text">#482C13</color>
+    <color name="color_secondary_text">#b7b1ad</color>
+    <color name="tabs_secondary_grey">#515151</color>
+    <color name="color_white">#ffffff</color>
+    <color name="color_red_text">#FF0000</color>
+    <color name="color_input_text">#333333</color>
+</resources>

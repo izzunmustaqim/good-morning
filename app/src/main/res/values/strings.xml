@@ -1,0 +1,466 @@
+<resources>
+    <string name="app_name">Good Morning</string>
+
+    <!-- Gallery Tabs -->
+    <string-array name="gallery_tabs">
+        <item>Photo Gallery</item>
+        <item>Video Gallery</item>
+    </string-array>
+
+    <!-- News Tabs-->
+    <string-array name="news_tabs">
+        <item>Advertisment</item>
+        <item>Advertorial Advertisment</item>
+        <item>Press Release</item>
+        <item>Radio</item>
+        <item>Others</item>
+    </string-array>
+
+    <string name="adv">adv</string>
+    <string name="aa">aa</string>
+    <string name="pr">pr</string>
+    <string name="vid">vid</string>
+    <string name="rad">rad</string>
+    <string name="others">others</string>
+
+    <!-- Welcome Tabs -->
+    <string-array name="welcome_tabs">
+        <item>Our Products</item>
+        <item>Latest Promotion</item>
+    </string-array>
+
+    <!-- Spinner Items -->
+    <!-- Countries -->
+    <string-array name="countries">
+        <item>Country</item>
+        <item>Malaysia</item>
+        <item>Singapore</item>
+    </string-array>
+
+    <!-- Year -->
+    <string-array name="weeks">
+        <item>Su</item>
+        <item>Mo</item>
+        <item>Tu</item>
+        <item>We</item>
+        <item>Th</item>
+        <item>Fr</item>
+        <item>Sa</item>
+    </string-array>
+
+    <string-array name="months">
+        <item>JANUARY</item>
+        <item>FEBRUARY</item>
+        <item>MARCH</item>
+        <item>APRIL</item>
+        <item>MAY</item>
+        <item>JUNE</item>
+        <item>JULY</item>
+        <item>AUGUST</item>
+        <item>SEPTEMEBER</item>
+        <item>OCTOBER</item>
+        <item>NOVEMBER</item>
+        <item>DECEMEBER</item>
+    </string-array>
+
+    <!--Menu-->
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="action_empty">Empty</string>
+    <string name="action_edit">Edit</string>
+
+    <!-- acitivity_dashboard-->
+    <string name="new_task">new tasks</string>
+    <string name="you_have">You have</string>
+    <string name="view_all_task">View All Task</string>
+
+    <!--Folder name-->
+    <string name="folder_name">goodmorning</string>
+    <string name="temp">Temp</string>
+    <string name="log">Log</string>
+
+    <!--Base URL -->
+    <string name="base_url">http://203.223.143.30:8070/gdmorningapi/api/</string>
+
+    <!--Provider-->
+    <string name="menu_provider" translatable="false">com.applab.goodmorning.menu.provider</string>
+    <string name="token_provider">com.applab.goodmorning.login.provider</string>
+    <string name="account_provider">com.applab.goodmorning.account.provider</string>
+    <string name="product_provider">com.applab.goodmorning.product.provider</string>
+    <string name="country_provider">com.applab.goodmorning.country.provider</string>
+    <string name="state_provider">com.applab.goodmorning.state.provider</string>
+
+    <!-- Start from here -->
+    <string name="cart">Cart</string>
+    <string name="delivery">Delivery</string>
+    <string name="payment_method">Payment Method</string>
+    <string name="confirmation">Confirmation</string>
+    <string name="search">Search</string>
+    <string name="dummy">Dummy Text</string>
+    <string name="welcome">Welcome</string>
+    <string name="no_items">No items</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="ok">OK</string>
+    <string name="pdf">PDF</string>
+    <string name="picture">Picture</string>
+    <string name="promotion_messages">Do you want to open image or PDF?</string>
+    <string name="title_selection">Choice</string>
+
+    <!-- Window Dialog -->
+    <string name="download_message">Do you want to download this file?</string>
+    <string name="download">Download</string>
+    <string name="audio_file">Audio File</string>
+
+    <string name="recalculate">Recalculate</string>
+
+    <!-- Language Activity -->
+    <string name="english">English</string>
+    <string name="malay">Malay</string>
+    <string name="chinese">Chinese</string>
+
+    <!-- Settings Activity -->
+    <string name="select_your_country">Select Your Country</string>
+    <string name="select_your_language">Select Your Language</string>
+    <string name="language">English</string>
+    <string name="country_malaysia">Malaysia</string>
+    <string name="country_singapore">Singapore</string>
+
+    <!-- Contact Us Activity -->
+    <string name="address_morning">No.56,Taman Perindustrian Tiong Nam,
+    Jln 15/22 Seksyen 15,40200 Shah Alam,Selangor.</string>
+    <string name="phone_number">1-300-22-1818</string>
+    <string name="website">www.goodmorning.com.my</string>
+    <string name="email_morning">inquiry@goodmorning.com.my</string>
+    <string name="open_time">Mon to Fri, 9am-6pm</string>
+    <string name="name">Name</string>
+    <string name="email">Username or Email</string>
+    <string name="email_password">Email</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+    <string name="google_map">GOOGLE MAP</string>
+    <string name="waze">WAZE</string>
+    <string name="google_map_url">http://maps.google.com/?q=</string>
+    <string name="waze_url">waze://?ll=</string>
+    <string name="waze_failed_url">market://details?id=com.waze</string>
+    <string-array name="contact_us_tabs">
+        <item>Store Locators</item>
+        <item>Loyalty Outlets</item>
+    </string-array>
+
+    <!--Enquiry Activity-->
+    <string-array name="enquiry_tabs">
+        <item>General</item>
+        <item>Retail &#38; Distributors</item>
+        <item>OEM</item>
+    </string-array>
+    <string name="online_enquiry">Online Enquiry</string>
+    <string name="we_love">We love to hear your queries</string>
+    <string name="messages">Message</string>
+    <string name="sends">SEND</string>
+    <string name="retail_distributor">Retail &#38; Distributor</string>
+    <string name="names">Name*</string>
+    <string name="name_of_outlets">Name of Outlets*</string>
+    <string name="address_of_outlets">Address of Outlets*</string>
+    <string name="postcode">Postcode</string>
+    <string name="emails">Email*</string>
+    <string name="emailses">Email</string>
+    <string name="phones">Phone*</string>
+    <string name="oem_enquiry">OEM Enquiry</string>
+    <string name="please_fill">Please fill in the form below to send us for your OEM enquires Field marked* are mandatory</string>
+    <string name="first_names">First Name*</string>
+    <string name="last_names">Last Name*</string>
+    <string name="company_name">Company Name*</string>
+    <string name="addresses">Address*</string>
+    <string name="subject">Subject*</string>
+    <string name="purpose">Purpose</string>
+    <string name="if_you_interested">If you interested in stocking or distributing our products, then please reply us using the following forms and we will get back to you as soon as possible. Please fill in the form below to send us for your retails or distributors enquires Field marked* are mandatory</string>
+    <string-array name="purpose">
+        <item>Product</item>
+        <item>Enquiry</item>
+        <item>Testimony</item>
+        <item>Interested to be our partner</item>
+        <item>Feedback</item>
+        <item>Others</item>
+    </string-array>
+    <string name="name_error">Name is required</string>
+    <string name="name_outlet_error">Name of Outlets is required</string>
+    <string name="address_outlet_error">Address of Outlets is required</string>
+    <string name="email_error">Email is required</string>
+    <string name="phone_error">Phone is required</string>
+    <string name="message_error">Message is required</string>
+    <string name="purpose_error">Please select purpose</string>
+    <string name="first_name_error">First name is required</string>
+    <string name="last_name_error">Last name is required</string>
+    <string name="company_name_error">Company name is required</string>
+    <string name="address_error">Address is required</string>
+    <string name="subject_error">Subject is required</string>
+    <string name="email_not_valid">Email is not valid</string>
+    <string name="success_send">Success send</string>
+    <string name="city_error">City is required</string>
+    <string name="postcode_error">Postcode is required</string>
+    <string name="state_error">State is required</string>
+    <string name="need_login">You need to login to continue</string>
+    <string name="username_email_error">Username or email is required</string>
+
+    <!-- Order History Activity-->
+    <string name="date_large">DATE:</string>
+    <string name="order_code">ORDER CODE:</string>
+    <string name="status">STATUS:</string>
+    <string name="gst_six_percent">GST @ 6%</string>
+    <string name="promotional_code">Promotional Code</string>
+
+    <!--My Account Activity -->
+    <string name="change_password">Change Password</string>
+    <string name="account_username">USERNAME</string>
+    <string name="account_email">EMAIL</string>
+    <string name="personal_details">PERSONAL DETAILS</string>
+    <string name="salutation">Salutation</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone">Phone</string>
+    <string name="address">Address</string>
+    <string name="city">City</string>
+    <string name="stateItem">State</string>
+    <string name="post_code">Post Code</string>
+    <string name="country">Country</string>
+    <string name="edit">Edit</string>
+
+    <!--Products Listing-->
+    <string name="read_more">Read More</string>
+    <string name="excl_gst">(excl 6% GST)</string>
+    <string name="add_to_cart">Add To Cart</string>
+    <string name="add_to_cart_large">ADD TO CART</string>
+
+    <!-- Product Details Activity -->
+    <string name="product_overview">PRODUCT OVERVIEW</string>
+    <string name="main_ingredients">MAIN INGREDIENTS</string>
+    <string name="recommend_for">RECOMMEND FOR</string>
+    <string name="benefits">BENEFITS</string>
+    <string name="directions_for_use">DIRECTIONS FOR USE</string>
+    <string name="certificates">CERTIFICATES</string>
+
+    <!--Event Details Activity-->
+    <string name="title">Title:</string>
+    <string name="date">Date:</string>
+    <string name="location">Location:</string>
+    <string name="description">Decription:</string>
+    <string name="created_by">Created by:</string>
+    <string name="remarks">Remarks:</string>
+
+    <!--YouTube Activity -->
+    <string name="player_error">Error initializing YouTube player</string>
+    <string name="youtube_api_key">AIzaSyBIb5mmqvQtEypBGz4E9Ns7XI0pIM27yC0</string>
+    <string name="youtube_base_url">https://img.youtube.com/vi/</string>
+    <string name="youtube_thumbnail">/0.jpg</string>
+
+    <!-- Title Activity -->
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_products">Products</string>
+    <string name="title_activity_photos">Photos</string>
+    <string name="title_activity_videos">Videos</string>
+    <string name="title_activity_news">News</string>
+    <string name="title_activity_events">Events</string>
+    <string name="title_activity_contact_us">Contact Us</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_welcome">Welcome</string>
+    <string name="title_activity_check_out">Check Out</string>
+    <string name="title_activity_sign_up">Register</string>
+    <string name="title_activity_order_history">Order History</string>
+    <string name="title_activity_my_account">My Account</string>
+    <string name="title_activity_select_your_country">Select Country</string>
+    <string name="title_activity_gallery">Gallery</string>
+    <string name="titlte_activity_select_language">Select Language</string>
+    <string name="title_shipping_address">SHIPPING ADDRESS</string>
+    <string name="title_activity_photo">Photo</string>
+    <string name="title_activity_video">Video</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_change_password">Change Password</string>
+    <string name="title_activity_edit_details">Edit Details</string>
+    <string name="title_activity_select_state">Select State</string>
+    <string name="title_activity_campaign_details">Campaign Details</string>
+    <string name="title_activity_enquiry">Enquiry</string>
+    <string name="title_activity_enquirys">Enquiry Forms</string>
+    <string name="title_activity_promotions">Promotion</string>
+    <string name="title_activity_our_story">Our Story</string>
+
+    <!--Confirmation-->
+    <string name="change_address">CHANGE ADDRESS</string>
+    <string name="change_order">CHANGE ORDER</string>
+    <string name="thanks">Thanks for your interest in buying our products</string>
+    <string name="process">Your order is being process, stay tuned!</string>
+    <string name="home_page">Back to home page</string>
+    <string name="company_address">No 56, Taman Perindustrian Tiong Nam, Jln 15/22, Seksyen 15, 40200 Shah Alam, Selangor</string>
+    <string name="place_order">PLACE ORDER</string>
+
+    <!--Login Page-->
+    <string name="sign_in">Sign In</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Register</string>
+    <string name="not_ready">Not ready yet? Back</string>
+    <string name="remember_me">Remember me</string>
+    <string name="forgot_pwd">Forget password?</string>
+    <string name="register">Register</string>
+    <string name="password_error">Password does not match</string>
+    <string name="error_login">User entered wrong login ID</string>
+    <string name="error_password">User entered wrong password</string>
+    <string name="username_error">Username is required</string>
+    <string name="password_errors">Password is required</string>
+    <string name="new_password_error">New Password is required</string>
+    <string name="confirm_password_errors">Confirm Password is required</string>
+    <string name="salutation_errors">Salutation is required</string>
+    <string name="street_address_errors">Street Address Password is required</string>
+    <string name="new_password_confirm_not_match">New password and confirm password not match</string>
+
+    <!--Forgot password-->
+    <string name="title_forgot_pwd">Forgot Password</string>
+    <string name="text_forgot_pwd">In order to receive your access code by email, please enter the address you provided during the registration process</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+
+    <!--Delivery  Fragment-->
+    <string name="shipment_info">SHIPMENT INFO</string>
+    <string name="company">Company</string>
+    <string name="street_address">Street Address</string>
+    <string name="zip_code">Zip code</string>
+    <string name="express_price">RM 25</string>
+    <string name="standard_price">Free</string>
+    <string name="shipping_info">SHIPPING INFO</string>
+    <string name="express_delivery">Express delivery</string>
+    <string name="standard_delivery">Standard delivery</string>
+    <string name="use_default">Use default information</string>
+    <string name="remark">REMARKS</string>
+    <string name="remarkses">Remarks</string>
+    <string name="continues">CONTINUE</string>
+    <string name="shipping_address">SHIPPING ADDRESS</string>
+
+    <!--Payment Fragment-->
+    <string name="payment_methods">PAYMENT METHOD</string>
+    <string name="paypal">Paypal</string>
+    <string name="bank_transfer">Bank Transfer</string>
+    <string name="billing_info">BILLING INFO</string>
+
+    <!-- Payment info -->
+    <string name="payment_info">PAYMENT INFO</string>
+    <string name="card_holder_name">Card Holder Name</string>
+    <string name="month">Month</string>
+    <string name="year">Year</string>
+    <string name="billing_address">BILLING ADDRESS</string>
+    <string name="total">TOTAL</string>
+    <string name="billing_address_two">Same as shipping address</string>
+    <string name="price">RM 368.68</string>
+    <string name="example">View an example</string>
+    <string name="gst">TOTAL 6% GST</string>
+    <string name="shipping_cost">SHIPPING COST</string>
+    <string name="total_price_gst">TOTAL PRICE INCLUSIVE GST</string>
+    <string name="cvc">CVC/CVV</string>
+    <string name="card_number">Card Number</string>
+
+    <!-- Contact us -->
+    <string name="company_phone">1-300-22-1818</string>
+    <string name="company_website">www.goodmorning.com.my</string>
+    <string name="company_email">inquiry@goodmorning.com.my</string>
+    <string name="company_time">Mon to Fri 9am-6pm</string>
+    <string name="customer_name">Name</string>
+    <string name="customer_email">Email</string>
+    <string name="customer_message">Messages</string>
+    <string name="customer_send">Send</string>
+
+    <!-- Sign Up -->
+    <string name="new_password">New Password</string>
+    <string name="login_details">LOGIN DETAILS</string>
+    <string name="login_id">Username</string>
+    <string name="email_address">Email Address</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="continue_btn">Continue</string>
+    <string name="billing_information">Set as default billing information</string>
+
+    <!-- Window Menu -->
+    <string name="log_in">Login</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="log_out">Log Out</string>
+
+    <!-- Change Password Activity -->
+    <string name="password_details">Password Details</string>
+    <string name="current_password">Current Password</string>
+
+    <!--CheckOut Activity-->
+    <string name="order_summary">Order Summary</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="calculate_based">Calculated based on default address</string>
+    <string name="gsts">GST @</string>
+    <string name="have_promotion">Have a Promotion Code?</string>
+    <string name="apply">Apply</string>
+    <string name="totals">Total</string>
+    <string name="rm">RM</string>
+    <string name="proceed_to_check_out">PROCEED TO CHECK OUT</string>
+    <string name="continue_shopping">Continue Shopping</string>
+    <string name="shipping_fee">Shipping Fee</string>
+    <string name="discount">Discount</string>
+    <string name="promotion_code">Promotion Code</string>
+    <string name="promotion_code_empty">Promotion code is empty</string>
+    <string name="promotion_code_error">Promotion code is invalid</string>
+
+    <!-- Edit Details Activity -->
+    <string name="cbo_reminder">Set as default biling information</string>
+
+    <!-- StateItem Activity -->
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Our Story Activity -->
+    <string name="origins_good_morning">THE ORIGINS OF GOODMORNING GLOBAL®</string>
+    <string name="our_story_url">http://www.goodmorning.com.my/cms2/index.php/about/our-story</string>
+
+    <string name="visit_website">VISIT WEBSITE</string>
+
+<string name="origins_first">"GoodMorning Global® began with a simple dream;
+    that everyone can enjoy good health and achieve their goals in life"</string>
+
+<string name="origins_second">“Good morning” is a greeting known in all languages. It is the expression of courtesy;
+    it breaks the ice, and builds relationships,
+    a greeting that signifies the beginning of a new day.</string>
+
+<string name="origins_third">GoodMorning Global® began with a simple dream;
+    that everyone can enjoy good health and achieve their goals in life;
+    to create a superior life-long career and achieve a wealthy life.</string>
+
+<string name="origins_fourth">Once an enterprising start-up grasps the direction of Good Morning Global®,
+    they will be able to enjoy a stable period of development.</string>
+
+<string name="origins_last">We are confident of expansion,
+    following the rapid rise of the Asian health and skin care industry – an industry that is one of the
+    fastest growing in the world as well. GoodMorning® is a robust company, ready to grow internationally.</string>
+
+    <!--Others-->
+    <string name="hi">Hi</string>
+    <string name="connection">No connection, please try again</string>
+    <string name="connection_timeout">Sorry, connection timeout</string>
+    <string name="proceed_failed">Unable to proceed, please try again</string>
+    <string name="warning">Warning</string>
+    <string name="coonection_failed">No connection, please try again</string>
+    <string name="no_file">No File</string>
+    <string name="file_exist">The file is exists at</string>
+    <string name="download_file">Downloading the file</string>
+    <string name="choose_an_application">Choose an Application:</string>
+    <string name="error_cannot_resume">Error cannot resume</string>
+    <string name="error_device_no_found">Error device not found</string>
+    <string name="error_file_already_exists">Error file already exists</string>
+    <string name="error_file_error">Error file error</string>
+    <string name="error_http_data_error">Error HTTP data error</string>
+    <string name="error_insufficient_space">Error insufficient space</string>
+    <string name="error_too_many_redirects">Error too many redirects</string>
+    <string name="error_unhandled_HTTP_code">Error unhandled HTTP code</string>
+    <string name="error_unknown">Error unknown</string>
+    <string name="is_failed">is failed:</string>
+    <string name="is_paused">is paused:</string>
+    <string name="is_completed">is completed</string>
+    <string name="paused_queued_for_wifi">Paused queued for wifi</string>
+    <string name="paused_unknown">Paused unknown</string>
+    <string name="paused_waiting_for_network">Paused waiting for network</string>
+    <string name="paused_waiting_to_retry">Paused waiting to retry</string>
+    <string name="pending">PENDING</string>
+    <string name="running">RUNNING</string>
+</resources>

@@ -1,0 +1,45 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="app_bar_top_padding">0dp</dimen>
+    <dimen name="normal_text_size">15sp</dimen>
+    <dimen name="smaller_text_size">10sp</dimen>
+    <dimen name="small_text_size">12sp</dimen>
+    <dimen name="large_text_size">18sp</dimen>
+    <dimen name="larger_text_size">20sp</dimen>
+    <dimen name="huge_text_size">35sp</dimen>
+    <dimen name="largest_text_size">22sp</dimen>
+    <dimen name="text_size_medium">12sp</dimen>
+    <dimen name="text_size_medium2">13sp</dimen>
+    <dimen name="small_profile_size">50dp</dimen>
+    <dimen name="big_profile_size">100dp</dimen>
+    <dimen name="banner">200dp</dimen>
+    <dimen name="large_banner">280dp</dimen>
+    <dimen name="product_image_height">150dp</dimen>
+
+    <dimen name="dot_size">8dp</dimen>
+    <dimen name="notification_size">8sp</dimen>
+    <dimen name="product_image_size">120dp</dimen>
+    <dimen name="check_size">25dp</dimen>
+    <dimen name="symbol_size">30dp</dimen>
+    <dimen name="check_size2">35dp</dimen>
+    <dimen name="normal_text_size_larger">17sp</dimen>
+
+    <!--Toolbar Layout-->
+    <dimen name="toolbar_text_size">20sp</dimen>
+
+    <!--Window Menu-->
+    <dimen name="menu_width">250dp</dimen>
+
+    <!--Tabs Layout-->
+    <dimen name="tabs_text_size">12sp</dimen>
+
+    <!--Profile Layout-->
+    <dimen name="profile_image_size">100dp</dimen>
+
+    <!--Navigation Drawer Layout-->
+    <dimen name="nav_drawer_width">280dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+</resources>

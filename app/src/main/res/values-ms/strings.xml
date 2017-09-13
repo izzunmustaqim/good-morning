@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Good Morning</string>
+    <!-- Gallery Tabs -->
+    <string-array name="gallery_tabs">
+        <item>Galeri Gambar</item>
+        <item>Galeri Video</item>
+    </string-array>
+
+    <!-- News Tabs-->
+    <string-array name="news_tabs">
+        <item>Iklan</item>
+        <item>Advertorial Iklan</item>
+        <item>Sidang akhbar</item>
+        <item>Radio</item>
+        <item>lain-lain</item>
+    </string-array>
+
+    <string name="adv">adv</string>
+    <string name="aa">aa</string>
+    <string name="pr">pr</string>
+    <string name="vid">vid</string>
+    <string name="rad">rad</string>
+    <string name="others">others</string>
+    <!-- Welcome Tabs -->
+    <string-array name="welcome_tabs">
+        <item>Produk Kami</item>
+        <item>Promosi Terbaru</item>
+    </string-array>
+
+    <!-- Spinner Items -->
+    <!-- Countries -->
+    <string-array name="countries">
+        <item>Negara</item>
+        <item>Malaysia</item>
+        <item>Singapura</item>
+    </string-array>
+    <!-- Year -->
+    <string-array name="weeks">
+        <item>Ah</item>
+        <item>Is</item>
+        <item>Se</item>
+        <item>Ra</item>
+        <item>Kh</item>
+        <item>Ju</item>
+        <item>Sa</item>
+    </string-array>
+
+    <string-array name="months">
+        <item>JANUARI</item>
+        <item>FEBRUARI</item>
+        <item>MARCH</item>
+        <item>APRIL</item>
+        <item>MEI</item>
+        <item>JUN</item>
+        <item>JULI</item>
+        <item>OGOS</item>
+        <item>SEPTEMEBER</item>
+        <item>OKTOBER</item>
+        <item>NOVEMBER</item>
+        <item>DECEMEBER</item>
+    </string-array>
+
+
+    <!--Menu-->
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="action_empty">Empty</string>
+    <string name="action_edit">Edit</string>
+
+    <!-- acitivity_dashboard-->
+    <string name="new_task">tugas-tugas baru</string>
+    <string name="you_have">Kamu ada</string>
+    <string name="view_all_task">Lihat Semua Tugas</string>
+
+    <!--Folder name-->
+    <string name="folder_name">goodmorning</string>
+    <string name="temp">Temp</string>
+    <string name="log">Log</string>
+
+    <!-- Start from here -->
+    <string name="cart">Dalam Troli</string>
+    <string name="delivery">Penghantaran</string>
+    <string name="payment_method">Cara Pembayaran</string>
+    <string name="confirmation">Pengesahan</string>
+    <string name="search">Carian</string>
+    <string name="dummy">Dummy Text</string>
+    <string name="welcome">Sambutan</string>
+    <string name="no_items">Tiada perkara</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tiada</string>
+    <string name="ok">OK</string>
+    <string name="pdf">PDF</string>
+    <string name="picture">Gambar</string>
+    <string name="promotion_messages">Adakah anda ingin membuka imej atau PDF?</string>
+    <string name="title_selection">Pilihan</string>
+
+    <!-- Window Dialog -->
+    <string name="download_message">Adakah anda ingin memuat turun fail ini?</string>
+    <string name="download">Muat turun</string>
+    <string name="audio_file">Audio File</string>
+
+    <string name="recalculate">Kira semula</string>
+    <!-- Language Activity -->
+    <string name="english">Bahasa Inggeris</string>
+    <string name="malay">Bahasa Melayu</string>
+    <string name="chinese">Bahasa Cina</string>
+
+    <!-- Settings Activity -->
+    <string name="select_your_country">Pilih Negara</string>
+    <string name="select_your_language">Pilih Bahasa</string>
+    <string name="language">Inggeris</string>
+    <string name="country_malaysia">Malaysia</string>
+    <string name="country_singapore">Singapura</string>
+
+    <!-- Contact Us Activity -->
+    <string name="address_morning">No.56,Taman Perindustrian Tiong Nam,
+    Jln 15/22 Seksyen 15,40200 Shah Alam,Selangor.</string>
+    <string name="phone_number">1-300-22-1818</string>
+    <string name="website">www.goodmorning.com.my</string>
+    <string name="email_morning">inquiry@goodmorning.com.my</string>
+    <string name="open_time">Mon to Fri, 9am-6pm</string>
+    <string name="name">Name</string>
+    <string name="email">Nama pengguna atau e-mel</string>
+    <string name="email_password">E-mel</string>
+    <string name="message">Mesej</string>
+    <string name="send">HANTAR</string>
+    <string name="google_map">PETA GOOGLE</string>
+    <string name="waze">WAZE</string>
+    <string name="google_map_url">http://maps.google.com/?q=</string>
+    <string name="waze_url">waze://?ll=</string>
+    <string name="waze_failed_url">market://details?id=com.waze</string>
+    <string-array name="contact_us_tabs">
+        <item>Locators Store</item>
+        <item>Outlets kesetiaan</item>
+    </string-array>
+
+    <!--Enquiry Activity-->
+    <string-array name="enquiry_tabs">
+        <item>General</item>
+        <item>Runcit &#38; Pngedar</item>
+        <item>OEM</item>
+    </string-array>
+    <string name="online_enquiry">Pentanyaan Talian</string>
+    <string name="we_love">Kami suka untuk mendengar pertanyaan anda</string>
+    <string name="messages">Mesej</string>
+    <string name="sends">HANTAR</string>
+    <string name="retail_distributor">Runcit &#38; Pengedar</string>
+    <string name="names">Nama*</string>
+    <string name="name_of_outlets">Nama Outlet*</string>
+    <string name="address_of_outlets">Alamat Outlet*</string>
+    <string name="postcode">Poskod</string>
+    <string name="emails">E-mel*</string>
+    <string name="emailses">E-mel</string>
+    <string name="phones">Telefon*</string>
+    <string name="oem_enquiry">OEM Pentanyaan</string>
+    <string name="please_fill">Sila isi borang di bawah untuk menghantar kami untuk Field pertanyaan OEM bertanda * adalah mandatori</string>
+    <string name="first_names">Nama Pertama*</string>
+    <string name="last_names">Nama Terakhir*</string>
+    <string name="company_name">Nama Syarikat*</string>
+    <string name="addresses">Alamat*</string>
+    <string name="subject">Subjek*</string>
+    <string name="purpose">Tujuan</string>
+    <string name="if_you_interested">Jika anda berminat dalam stok atau mengedar produk kami, sila membalas kami dengan menggunakan borang-borang berikut dan kami akan kembali kepada anda dengan seberapa segera yang mungkin. Sila isi borang di bawah untuk menghantar untuk peruncit kami atau pertanyaan pengedar Field bertanda * adalah mandatori</string>
+    <string-array name="purpose">
+        <item>Produk</item>
+        <item>Pertanyaan</item>
+        <item>Testimoni</item>
+        <item>Berminat untuk menjadi rakan kongsi anda</item>
+        <item>Maklumbalas</item>
+        <item>Lain-lain</item>
+    </string-array>
+    <string name="name_error">Nama diperlukan</string>
+    <string name="name_outlet_error">Nama Outlet diperlukan</string>
+    <string name="address_outlet_error">Alamat Outlet diperlukan</string>
+    <string name="email_error">E-mel diperlukan</string>
+    <string name="phone_error">Telefon diperlukan</string>
+    <string name="message_error">Mesej diperlukan</string>
+    <string name="purpose_error">Sila pilih tujuan</string>
+    <string name="first_name_error">Nama pertama diperlukan</string>
+    <string name="last_name_error">Nama akhir diperlukan</string>
+    <string name="company_name_error">Nama syarikat diperlukan</string>
+    <string name="address_error">Alamat diperlukan</string>
+    <string name="subject_error">Subjek dikehendaki</string>
+    <string name="email_not_valid">E-mel tidak sah</string>
+    <string name="success_send">Berjaya hantar</string>
+    <string name="city_error">Bandar diperlukan</string>
+    <string name="postcode_error">Poskod diperlukan</string>
+    <string name="state_error">Negeri diperlukan</string>
+    <string name="need_login">Anda perlu log masuk untuk meneruskan</string>
+    <string name="username_email_error">Nama pengguna atau e-mel diperlukan</string>
+
+    <!-- Order History Activity-->
+    <string name="date_large">TARIKH:</string>
+    <string name="order_code">ORDER CODE:</string>
+    <string name="status">STATUS:</string>
+    <string name="gst_six_percent">GST @ 6%</string>
+    <string name="promotional_code">Kod promosi</string>
+
+    <!--Confirmation-->
+    <string name="change_password">Tukar kata laluan</string>
+    <string name="account_username">NAMA PENGGUNA</string>
+    <string name="account_email">E-MEL</string>
+    <string name="personal_details">MAKLUMAT PERIBADI</string>
+    <string name="salutation">Penghormatan</string>
+    <string name="first_name">Nama Pertama </string>
+    <string name="last_name">Nama Terakhir</string>
+    <string name="phone">Telefon</string>
+    <string name="address">Alamat</string>
+    <string name="city">Bandar</string>
+    <string name="stateItem">Negeri</string>
+    <string name="post_code">Poskod</string>
+    <string name="country">Negara</string>
+    <string name="edit">Edit</string>
+
+    <!--Products Listing-->
+    <string name="read_more">Baca Lagi</string>
+    <string name="excl_gst">(excl 6% GST)</string>
+    <string name="add_to_cart">Dalam Troli</string>
+    <string name="add_to_cart_large">DALAM TROLI</string>
+
+    <!-- Product Details Activity -->
+    <string name="product_overview">TINJAUAN PRODUK</string>
+    <string name="main_ingredients">BAHAN-BAHAN UTAMA</string>
+    <string name="recommend_for">DIGALAKKAN UNTUK</string>
+    <string name="benefits">FAEDAH</string>
+    <string name="directions_for_use">ARAHAN UNTUK KEGUNAAN</string>
+    <string name="certificates">SIJIL</string>
+
+    <!--Event Details Activity-->
+    <string name="title">Tajuk:</string>
+    <string name="date">Tarikh:</string>
+    <string name="location">Tempat:</string>
+    <string name="description">Penerangan:</string>
+    <string name="created_by">Dicipta oleh:</string>
+    <string name="remarks">Kenyataan:</string>
+
+    <!--YouTube Activity -->
+    <string name="player_error">Error initializing YouTube player</string>
+    <string name="youtube_api_key">AIzaSyBIb5mmqvQtEypBGz4E9Ns7XI0pIM27yC0</string>
+    <string name="youtube_base_url">https://img.youtube.com/vi/</string>
+    <string name="youtube_thumbnail">/0.jpg</string>
+
+    <!-- Title Activity -->
+    <string name="title_activity_home">Laman</string>
+    <string name="title_activity_products">Produk</string>
+    <string name="title_activity_photos">Foto</string>
+    <string name="title_activity_videos">Video</string>
+    <string name="title_activity_news">Berita</string>
+    <string name="title_activity_events">Peristiwa</string>
+    <string name="title_activity_contact_us">Hubungi kami</string>
+    <string name="title_activity_settings">Tetapan</string>
+    <string name="title_activity_welcome">Sambutan</string>
+    <string name="title_activity_check_out">Daftar Keluar</string>
+    <string name="title_activity_sign_up">Daftar</string>
+    <string name="title_activity_order_history">Sejarah Pesanan</string>
+    <string name="title_activity_my_account">Akaun Saya</string>
+    <string name="title_activity_select_your_country">Pilih Negara</string>
+    <string name="title_activity_gallery">Gallery</string>
+    <string name="titlte_activity_select_language">Pilih Bahasa</string>
+    <string name="title_shipping_address">ALAMAT PENGHANTARAN</string>
+    <string name="title_activity_photo">Foto</string>
+    <string name="title_activity_video">Video</string>
+    <string name="title_activity_register">Daftar</string>
+    <string name="title_activity_change_password">Tukar Kata Laluan</string>
+    <string name="title_activity_edit_details">Edit Butiran</string>
+    <string name="title_activity_select_state">Pilih Negeri</string>
+    <string name="title_activity_campaign_details">Butiran Kempen</string>
+    <string name="title_activity_enquiry">Pertanyaan</string>
+    <string name="title_activity_enquirys">Borang Pertanyaan</string>
+    <string name="title_activity_promotions">Promosi</string>
+    <string name="title_activity_our_story">Cerita Kita</string>
+
+    <!--Confirmation-->
+    <string name="change_address">TUKAR ALAMAT</string>
+    <string name="change_order">TUKAR ORDER</string>
+    <string name="thanks">Terima kasih kerana minat anda untuk membeli produk kami</string>
+    <string name="process">Pesanan anda sedang diproses, harap sabar menunggu!</string>
+    <string name="home_page">Kembali ke laman utama</string>
+    <string name="company_address">No 56, Taman Perindustrian Tiong Nam, Jln 15/22, Seksyen 15, 40200 Shah Alam, Selangor</string>
+    <string name="place_order">ORDER SEKARANG</string>
+
+    <!--Login Page-->
+    <string name="sign_in">Masuk</string>
+    <string name="password">Kata Laluan</string>
+    <string name="login">Log Masuk</string>
+    <string name="sign_up">Daftar</string>
+    <string name="not_ready">Tidak bersedia lagi? Kembali</string>
+    <string name="remember_me">Ingat aku</string>
+    <string name="forgot_pwd">Lupa Kata Laluan?</string>
+    <string name="register">Daftar</string>
+    <string name="password_error">Kata laluan tidak sepadan</string>
+    <string name="error_login">Pengguna memasukkan ID login salah</string>
+    <string name="error_password">Pengguna memasukkan kata laluan yang salah</string>
+    <string name="username_error">Nama pengguna diperlukan</string>
+    <string name="password_errors">Kata laluan diperlukan</string>
+    <string name="new_password_error">Kata laluan baru diperlukan</string>
+    <string name="confirm_password_errors">Sahkan Katalaluan diperlukan</string>
+    <string name="salutation_errors">Penghormatan diperlukan</string>
+    <string name="street_address_errors">Alamat Jalan Katalaluan diperlukan</string>
+    <string name="new_password_confirm_not_match">Kata laluan baru dan kata confirm tidak sepadan</string>
+
+    <!--Forgot password-->
+    <string name="title_forgot_pwd">Forgot Password</string>
+    <string name="text_forgot_pwd">Untuk menerima kod akses anda melalui e-mel, sila masukkan alamat yang anda berikan semasa proses pendaftaran</string>
+    <string name="submit">Hantar</string>
+    <string name="cancel">Batal</string>
+
+    <!--Delivery  Fragment-->
+    <string name="shipment_info">PENGHANTARAN INFO</string>
+    <string name="company">Syarikat</string>
+    <string name="street_address">Alamat Jalan</string>
+    <string name="zip_code">PostcodPoskod</string>
+    <string name="express_price">RM 25</string>
+    <string name="standard_price">Percuma</string>
+    <string name="shipping_info">PENGHANTARAN INFO</string>
+    <string name="express_delivery">Penghantaran ekspres</string>
+    <string name="standard_delivery">Penghantaran standard</string>
+    <string name="use_default">Gunakan maklumat ingkar</string>
+    <string name="remark">KENYATAAN</string>
+    <string name="remarkses">KENYATAAN</string>
+    <string name="continues">TERUS</string>
+    <string name="shipping_address">ALAMAT PENGHANTARAN</string>
+
+    <!--Payment Fragment-->
+    <string name="payment_methods">CARA PEMBAYARAN</string>
+    <string name="paypal">Paypal</string>
+    <string name="bank_transfer">Pemindahan bank</string>
+    <string name="billing_info">BILLING INFO</string>
+
+    <!-- Payment info -->
+    <string name="payment_info">INFO PEMBAYARAN</string>
+    <string name="card_holder_name">Nama pemegang kad</string>
+    <string name="month">Bulan</string>
+    <string name="year">Tahun</string>
+    <string name="billing_address">BILLING ADDRESS</string>
+    <string name="total">JUMLAH</string>
+    <string name="billing_address_two">Sama seperti alamat penghantaran</string>
+    <string name="price">RM 368.68</string>
+    <string name="example">Lihat contoh di</string>
+    <string name="gst">JUMLAH 6% GST</string>
+    <string name="shipping_cost">KOS PENGHANTARAN</string>
+    <string name="total_price_gst">TOTAL HARGA GST INCLUSIVE</string>
+    <string name="cvc">CVC/CVV</string>
+    <string name="card_number">Nombor kad</string>
+
+    <!-- Contact us -->
+    <string name="company_phone">1-300-22-1818</string>
+    <string name="company_website">www.goodmorning.com.my</string>
+    <string name="company_email">inquiry@goodmorning.com.my</string>
+    <string name="company_time">Mon to Fri 9am-6pm</string>
+    <string name="customer_name">Nama</string>
+    <string name="customer_email">E-mel</string>
+    <string name="customer_message">Mesej</string>
+    <string name="customer_send">Hantar</string>
+
+    <!-- Sign Up -->
+    <string name="new_password">Kata Kunci Baru</string>
+    <string name="login_details">BUTIRAN LOG MASUK</string>
+    <string name="login_id">Nama Pengguna</string>
+    <string name="email_address">Alamat E-mel</string>
+    <string name="confirm_password">Sahkan Kata Laluan</string>
+    <string name="continue_btn">Teruskan</string>
+    <string name="billing_information">Ditetapkan sebagai maklumat bil ingkar</string>
+
+    <!-- Window Menu -->
+    <string name="log_in">Log masuk</string>
+    <string name="sign_out">Daftar Keluar</string>
+    <string name="log_out">Log Keluar</string>
+
+    <!-- Change Password Activity -->
+    <string name="password_details">Kata Laluan Butiran</string>
+    <string name="current_password">Kata Laluan Semasa</string>
+
+    <!--CheckOut Activity-->
+    <string name="order_summary">Ringkasan Pesanan</string>
+    <string name="subtotal">Jumlah Kecil</string>
+    <string name="calculate_based">Dikira berdasarkan alamat ingkar</string>
+    <string name="gsts">GST @</string>
+    <string name="have_promotion">Mempunyai kod promosi?</string>
+    <string name="apply">Pohon</string>
+    <string name="totals">Jumlah</string>
+    <string name="rm">RM</string>
+    <string name="proceed_to_check_out">TERUSKAN KE KAUNTER</string>
+    <string name="continue_shopping">Terus Membeli-belah</string>
+    <string name="shipping_fee">Kos Penghantaran</string>
+    <string name="discount">Diskaun</string>
+    <string name="promotion_code">Kod Promosi</string>
+    <string name="promotion_code_empty">Kod promosi kosong</string>
+    <string name="promotion_code_error">Kod promosi tidak sah</string>
+
+    <!-- Edit Details Activity -->
+    <string name="cbo_reminder">Ditetapkan sebagai maklumat bil ingkar</string>
+
+    <!-- StateItem Activity -->
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Our Story Activity -->
+    <string name="origins_good_morning">ASAL GOOD MORNING GLOBAL®</string>
+
+    <string name="visit_website">LAWATAN LAMAN WEB</string>
+
+    <string name="origins_first">"GoodMorning Global® bermula dengan impian yang mudah;
+         semua orang yang boleh menikmati kesihatan yang baik dan mencapai matlamat mereka dalam hidup </string>
+
+    <string name="origins_second">"Selamat pagi" adalah ucapan yang dikenali dalam semua bahasa. Ia adalah ungkapan ihsan;
+         ia akrab, dan membina hubungan,
+         ucapan yang menandakan permulaan hari yang baru.</string>
+
+    <string name="origins_third">GoodMorning Global® bermula dengan impian yang mudah;
+         semua orang yang boleh menikmati kesihatan yang baik dan mencapai matlamat mereka dalam kehidupan;
+         untuk mewujudkan kerjaya sepanjang hayat yang lebih tinggi dan mencapai kehidupan yang kaya.</string>
+
+    <string name="origins_fourth">Setelah permulaan berdaya usaha menyempitkan arah Good Morning Global®,
+        mereka akan dapat menikmati tempoh yang stabil pembangunan.</string>
+
+    <string name="origins_last">Kami yakin pengembangan, berikutan peningkatan pesat industri kesihatan dan penjagaan kulit Asia -
+        industri yang merupakan salah satu yang paling cepat berkembang di dunia juga.
+        Baik Morning® ialah syarikat yang mantap, bersedia untuk berkembang di peringkat antarabangsa.</string>
+
+    <!--Others-->
+    <string name="hi">Hi</string>
+    <string name="connection">Tiada sambungan, sila cuba lagi</string>
+    <string name="connection_timeout">Maaf, masa rehat sambungan</string>
+    <string name="proceed_failed">Tidak dapat diteruskan, sila cuba lagi</string>
+    <string name="warning">Amaran</string>
+    <string name="coonection_failed">Tiada sambungan, sila cuba lagi</string>
+    <string name="no_file">Tiada fail</string>
+    <string name="file_exist">Fail adalah wujud pada</string>
+    <string name="download_file">Memuat turun fail</string>
+    <string name="choose_an_application">Pilih aplikasi:</string>
+    <string name="error_cannot_resume">Kesilapan tidak boleh meneruskan</string>
+    <string name="error_device_no_found">Alat Kesilapan tidak dijumpai</string>
+    <string name="error_file_already_exists">File Kesilapan telah wujud</string>
+    <string name="error_file_error">Kesalahan file Kesilapan</string>
+    <string name="error_http_data_error">Kesilapan kesalahan data HTTP</string>
+    <string name="error_insufficient_space">Kesilapan ruang tidak mencukupi</string>
+    <string name="error_too_many_redirects">Kesilapan terlalu banyak ubah hala</string>
+    <string name="error_unhandled_HTTP_code">Kesilapan kod HTTP tak dikendali</string>
+    <string name="error_unknown">Kesilapan tidak diketahui</string>
+    <string name="is_failed">yang gagal:</string>
+    <string name="is_paused">dihentikan sebentar:</string>
+    <string name="is_completed">selesai</string>
+    <string name="paused_queued_for_wifi">Berhenti beratur untuk wifi</string>
+    <string name="paused_unknown">Dihentikan sementara tidak diketahui</string>
+    <string name="paused_waiting_for_network">Dihentikan sementara menunggu untuk rangkaian</string>
+    <string name="paused_waiting_to_retry">Dihentikan sementara menunggu untuk mencuba semula</string>
+    <string name="pending">YANG BELUM SELESAI</string>
+    <string name="running">BERJALAN</string>
+</resources>
+

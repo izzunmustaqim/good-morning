@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:paddingLeft="32dp"
+    android:paddingRight="32dp"
+    tools:context="com.applab.goodmorning.Checkout.activity.CheckOutDoneActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingBottom="16dp"
+        android:paddingTop="16dp">
+
+        <com.applab.goodmorning.Utilities.SquareImageView
+            android:layout_width="170dp"
+            android:layout_height="170dp"
+            android:src="@drawable/complete_deal_brown_transparent" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingBottom="30dp"
+            android:paddingTop="30dp"
+            android:text="@string/thanks"
+            android:textColor="@color/color_accent"
+            android:textSize="@dimen/largest_text_size" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp"
+            android:text="@string/process"
+            android:textColor="@color/color_accent"
+            android:textSize="@dimen/large_text_size" />
+
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnHome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="16dp"
+        android:background="@color/color_primary"
+        android:text="@string/home_page" />
+</RelativeLayout>

@@ -1,0 +1,434 @@
+<resources>
+    <string name="app_name">Good Morning</string>
+
+    <!-- Gallery Tabs -->
+    <string-array name="gallery_tabs">
+        <item>照片库</item>
+        <item>视频库</item>
+    </string-array>
+
+    <!-- News Tabs-->
+    <string-array name="news_tabs">
+        <item>广告</item>
+        <item>软文广告</item>
+        <item>新闻稿</item>
+        <item>收音机</item>
+        <item>其他</item>
+    </string-array>
+
+    <!-- Welcome Tabs -->
+    <string-array name="welcome_tabs">
+        <item>产品</item>
+        <item>优惠</item>
+    </string-array>
+
+    <!-- Spinner Items -->
+    <!-- Countries -->
+    <string-array name="countries">
+        <item>国家</item>
+        <item>马来西亚</item>
+        <item>新加坡</item>
+    </string-array>
+
+    <!-- Year -->
+    <string-array name="weeks">
+        <item>星期日</item>
+        <item>星期一</item>
+        <item>星期二</item>
+        <item>星期三</item>
+        <item>星期四</item>
+        <item>星期五</item>
+        <item>星期六</item>
+    </string-array>
+
+    <string-array name="months">
+        <item>一月</item>
+        <item>二月</item>
+        <item>三月</item>
+        <item>四月</item>
+        <item>五月</item>
+        <item>六月</item>
+        <item>七月</item>
+        <item>八月</item>
+        <item>九月</item>
+        <item>十月</item>
+        <item>十一月</item>
+        <item>十二月</item>
+    </string-array>
+
+    <!--Menu-->
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="action_empty">Empty</string>
+    <string name="action_edit">Edit</string>
+
+    <!-- acitivity_dashboard-->
+    <string name="new_task">new tasks</string>
+    <string name="you_have">You have</string>
+    <string name="view_all_task">View All Task</string>
+
+    <!--Folder name-->
+    <string name="folder_name">goodmorning</string>
+    <string name="temp">Temp</string>
+    <string name="log">Log</string>
+
+    <!-- Start from here -->
+    <string name="cart">购物车</string>
+    <string name="delivery">輸送</string>
+    <string name="payment_method">Payment Method</string>
+    <string name="confirmation">确认</string>
+    <string name="search">搜索</string>
+    <string name="dummy">Dummy Text</string>
+    <string name="welcome">欢迎</string>
+    <string name="no_items">没有项目</string>
+    <string name="yes">是</string>
+    <string name="no">没有</string>
+    <string name="ok">好</string>
+    <string name="pdf">PDF</string>
+    <string name="picture">图片</string>
+    <string name="promotion_messages">你想打开图像或PDF?</string>
+    <string name="title_selection">选择</string>
+
+    <!-- Window Dialog -->
+    <string name="download_message">你要下载此文件？</string>
+    <string name="download">下载</string>
+    <string name="audio_file">Audio File</string>
+    <string name="recalculate">重新计算</string>
+    <!-- Language Activity -->
+    <string name="english">英语</string>
+    <string name="malay">马来语</string>
+    <string name="chinese">中文</string>
+
+    <!-- Settings Activity -->
+    <string name="select_your_country">选择你的国家</string>
+    <string name="select_your_language">选择你的语言</string>
+    <string name="language">英语</string>
+    <string name="country_malaysia">马来西亚</string>
+    <string name="country_singapore">新加坡</string>
+
+    <!-- Contact Us Activity -->
+    <string name="address_morning">No.56,Taman Perindustrian Tiong Nam,
+    Jln 15/22 Seksyen 15,40200 Shah Alam,Selangor.</string>
+    <string name="phone_number">1-300-22-1818</string>
+    <string name="website">www.goodmorning.com.my</string>
+    <string name="email_morning">inquiry@goodmorning.com.my</string>
+    <string name="open_time">星期一至星期五 , 9：00-18：00</string>
+    <string name="name">名字</string>
+    <string name="email">用户名或电子邮件</string>
+    <string name="email_password">电子邮件</string>
+    <string name="message">讯息</string>
+    <string name="send">发送</string>
+    <string name="google_map">谷歌地图</string>
+    <string name="waze">WAZE</string>
+    <string name="google_map_url">http://maps.google.com/?q=</string>
+    <string name="waze_url">waze://?ll=</string>
+    <string name="waze_failed_url">market://details?id=com.waze</string>
+    <string-array name="contact_us_tabs">
+        <item>商店定位器</item>
+        <item>忠诚连锁店</item>
+    </string-array>
+    <!--Enquiry Activity-->
+    <string-array name="enquiry_tabs">
+        <item>一般</item>
+        <item>零售 &#38; 分销商</item>
+        <item>OEM</item>
+    </string-array>
+    <string name="online_enquiry">在线咨询</string>
+    <string name="we_love">我们喜欢听你的查询</string>
+    <string name="messages">信息</string>
+    <string name="sends">发送</string>
+    <string name="retail_distributor">零售 &#38; 分销商</string>
+    <string name="names">名称*</string>
+    <string name="name_of_outlets">连锁店的名称*</string>
+    <string name="address_of_outlets">连锁店的地址*</string>
+    <string name="postcode">邮编</string>
+    <string name="emails">电子邮件*</string>
+    <string name="emailses">电子邮件</string>
+    <string name="phones">电话*</string>
+    <string name="oem_enquiry">OEM 查询</string>
+    <string name="please_fill">请填写下面的表格发送给我们您的OEM查询字段标有*为必填项</string>
+    <string name="first_names">姓氏*</string>
+    <string name="last_names">名字*</string>
+    <string name="company_name">公司名*</string>
+    <string name="addresses">地址*</string>
+    <string name="subject">标题*</string>
+    <string name="purpose">目的</string>
+    <string name="if_you_interested">如果您有兴趣放养或分销我们的产品，然后请回复我们用下面的表格，我们会尽快给您答复。请填写下面的表格发给我们为我们的零售商或经销商查询字段标*为必填项</string>
+    <string-array name="purpose">
+        <item>产品</item>
+        <item>查询</item>
+        <item>见证</item>
+        <item>有兴趣成为你的合作伙伴</item>
+        <item>意见</item>
+        <item>其他</item>
+    </string-array>
+    <string name="name_error">名称是必需的</string>
+    <string name="name_outlet_error">连锁店的名称是必需的</string>
+    <string name="address_outlet_error">连锁店的地址是必需的</string>
+    <string name="email_error">电子邮件是必需的</string>
+    <string name="phone_error">电话是必需的</string>
+    <string name="message_error">消息是必需的</string>
+    <string name="purpose_error">请选择目的</string>
+    <string name="first_name_error">姓氏是必需的</string>
+    <string name="last_name_error">名字是必需的</string>
+    <string name="company_name_error">公司名称是必需的</string>
+    <string name="address_error">地址是必需的</string>
+    <string name="subject_error">填写主题</string>
+    <string name="email_not_valid">电子邮件无效</string>
+    <string name="success_send">发送成功</string>
+    <string name="city_error">城市是必需的</string>
+    <string name="postcode_error">邮编是必需的</string>
+    <string name="state_error">州是必需的</string>
+    <string name="need_login">您需要登录继续</string>
+    <string name="username_email_error">用户名或电子邮件地址是必需的</string>
+
+    <!-- Order History Activity-->
+    <string name="date_large">日期:</string>
+    <string name="order_code">订货编号:</string>
+    <string name="status">交易状况:</string>
+    <string name="gst_six_percent">GST @ 6%</string>
+    <string name="promotional_code">促销代码</string>
+
+    <!--My Account Activity -->
+    <string name="change_password">更改密码</string>
+    <string name="account_username">用户名</string>
+    <string name="account_email">电子邮件</string>
+    <string name="personal_details">个人资料</string>
+    <string name="salutation">敬礼</string>
+    <string name="first_name">名字</string>
+    <string name="last_name">姓</string>
+    <string name="phone">电话</string>
+    <string name="address">地址</string>
+    <string name="city">城市</string>
+    <string name="stateItem">州</string>
+    <string name="post_code">邮编</string>
+    <string name="country">国家</string>
+    <string name="edit">修改</string>
+
+    <!--Products Listing-->
+    <string name="read_more">阅读更多</string>
+    <string name="excl_gst">(excl 6% GST)</string>
+    <string name="add_to_cart">添加到购物车</string>
+    <string name="add_to_cart_large">添加到购物车</string>
+
+    <!-- Product Details Activity -->
+    <string name="product_overview">产品概述</string>
+    <string name="main_ingredients">主要成分</string>
+    <string name="recommend_for">推荐</string>
+    <string name="benefits">优点</string>
+    <string name="directions_for_use">使用指南</string>
+    <string name="certificates">证书</string>
+
+    <!--Event Details Activity-->
+    <string name="title">标题:</string>
+    <string name="date">日期:</string>
+    <string name="location">位置:</string>
+    <string name="description">详解:</string>
+    <string name="created_by">创建人:</string>
+    <string name="remarks">备注:</string>
+    <!--YouTube Activity -->
+    <string name="player_error">Error initializing YouTube player</string>
+    <string name="youtube_api_key">AIzaSyBIb5mmqvQtEypBGz4E9Ns7XI0pIM27yC0</string>
+    <string name="youtube_base_url">https://img.youtube.com/vi/</string>
+    <string name="youtube_thumbnail">/0.jpg</string>
+
+    <!-- Title Activity -->
+    <string name="title_activity_home">主页</string>
+    <string name="title_activity_products">产品</string>
+    <string name="title_activity_photos">照片</string>
+    <string name="title_activity_videos">影片</string>
+    <string name="title_activity_news">新闻</string>
+    <string name="title_activity_events">活动</string>
+    <string name="title_activity_contact_us">联系我们</string>
+    <string name="title_activity_settings">设定</string>
+    <string name="title_activity_welcome">首页</string>
+    <string name="title_activity_check_out">结账</string>
+    <string name="title_activity_sign_up">登记</string>
+    <string name="title_activity_order_history">全部订单</string>
+    <string name="title_activity_my_account">我的帐户</string>
+    <string name="title_activity_select_your_country">选择国家</string>
+    <string name="title_activity_gallery">画廊</string>
+    <string name="titlte_activity_select_language">选择语言</string>
+    <string name="title_shipping_address">收货地址</string>
+    <string name="title_activity_photo">照片</string>
+    <string name="title_activity_video">影片</string>
+    <string name="title_activity_register">注册账户</string>
+    <string name="title_activity_change_password">更改密码</string>
+    <string name="title_activity_edit_details">编辑详情</string>
+    <string name="title_activity_select_state">选择国家</string>
+    <string name="title_activity_campaign_details">活动详情</string>
+    <string name="title_activity_enquiry">查询</string>
+    <string name="title_activity_enquirys">查询表格</string>
+    <string name="title_activity_promotions">促销</string>
+    <string name="title_activity_our_story">我们的故事</string>
+
+    <!--Confirmation-->
+    <string name="change_address">更换地址</string>
+    <string name="change_order">改变顺序</string>
+    <string name="thanks">感谢您选择了我们的产品</string>
+    <string name="process">您的订单正在处理中，敬请期待！</string>
+    <string name="home_page">返回首页</string>
+    <string name="company_address">No 56, Taman Perindustrian Tiong Nam, Jln 15/22, Seksyen 15, 40200 Shah Alam, Selangor</string>
+    <string name="place_order">下订单</string>
+
+    <!--Login Page-->
+    <string name="sign_in">登入</string>
+    <string name="password">密码</string>
+    <string name="login">登录</string>
+    <string name="sign_up">报名</string>
+    <string name="not_ready">还没有准备好？ 后</string>
+    <string name="remember_me">记住我</string>
+    <string name="forgot_pwd">忘了密码？</string>
+    <string name="register">注册</string>
+    <string name="password_error">密码不符</string>
+    <string name="error_login">用户输入错误的登录ID</string>
+    <string name="error_password">用户输入的密码错误</string>
+    <string name="username_error">用户名是必需的</string>
+    <string name="password_errors">密码是必需的</string>
+    <string name="new_password_error">新密码是必需的</string>
+    <string name="confirm_password_errors">确认密码是必需的</string>
+    <string name="salutation_errors">称呼是必需的</string>
+    <string name="street_address_errors">街道地址需要密码</string>
+    <string name="new_password_confirm_not_match">新密码和确认密码不相符</string>
+
+    <!--Forgot password-->
+    <string name="title_forgot_pwd">忘了密码</string>
+    <string name="text_forgot_pwd">为了通过电子邮件接收您的访问代码，请输入地址，您在注册过程中提供</string>
+    <string name="submit">递交</string>
+    <string name="cancel">取消</string>
+
+    <!--Delivery -->
+    <string name="shipment_info">发货信息</string>
+    <string name="company">公司</string>
+    <string name="street_address">街道地址</string>
+    <string name="zip_code">邮政编码</string>
+    <string name="express_price">RM 25</string>
+    <string name="standard_price">免费</string>
+    <string name="shipping_info">SHIPPING INFO</string>
+    <string name="use_default">U本身默认信息</string>
+    <string name="remark">备注</string>
+    <string name="remarkses">备注</string>
+    <string name="continues">继续</string>
+    <string name="shipping_address">邮寄地址</string>
+
+    <!--Payment Fragment-->
+    <string name="payment_methods">付款方法</string>
+    <string name="paypal">Paypal</string>
+    <string name="bank_transfer">银行转帐</string>
+    <string name="billing_info">计费信息</string>
+
+    <!-- Payment info -->
+    <string name="payment_info">付款信息</string>
+    <string name="card_holder_name">持卡人姓名</string>
+    <string name="month">月</string>
+    <string name="year">年</string>
+    <string name="billing_address">帐单地址</string>
+    <string name="total">总计</string>
+    <string name="billing_address_two">跟邮寄地址一样</string>
+    <string name="price">RM 368.68</string>
+    <string name="example">查看示例</string>
+    <string name="gst">共6％的消费税</string>
+    <string name="shipping_cost">运输费</string>
+    <string name="total_price_gst">含GST价格总计</string>
+    <string name="cvc">CVC/CVV</string>
+    <string name="card_number">卡号</string>
+    <!-- Contact us -->
+    <string name="company_phone">1-300-22-1818</string>
+    <string name="company_website">www.goodmorning.com.my</string>
+    <string name="company_email">inquiry@goodmorning.com.my</string>
+    <string name="company_time">星期一至星期五 , 9：00-18：00</string>
+    <string name="customer_name">名字</string>
+    <string name="customer_email">电子邮件</string>
+    <string name="customer_message">邮件</string>
+    <string name="customer_send">发送</string>
+
+    <!-- Sign Up -->
+    <string name="new_password">新密码</string>
+    <string name="login_details">登录详细信息</string>
+    <string name="login_id">用户名</string>
+    <string name="email_address">电子邮件地址</string>
+    <string name="confirm_password">确认密码</string>
+    <string name="continue_btn">继续</string>
+    <string name="billing_information">设置为默认的结算信息</string>
+
+    <!-- Window Menu -->
+    <string name="sign_out">登出</string>
+    <string name="log_out">登录</string>
+
+    <!-- Change Password Activity -->
+    <string name="password_details">密码详细信息</string>
+    <string name="current_password">当前密码</string>
+    <!--CheckOut Activity-->
+    <string name="order_summary">订单摘要</string>
+    <string name="subtotal">小计</string>
+    <string name="calculate_based">基础计算的默认地址</string>
+    <string name="gsts">GST @</string>
+    <string name="have_promotion">有一个促销代码？</string>
+    <string name="apply">应用</string>
+    <string name="totals">总</string>
+    <string name="rm">RM</string>
+    <string name="proceed_to_check_out">进行结算</string>
+    <string name="continue_shopping">继续购物</string>
+    <string name="shipping_fee">运输费用</string>
+    <string name="discount">折扣</string>
+    <string name="promotion_code">促销代码</string>
+    <string name="promotion_code_empty">促销代码是空的</string>
+    <string name="promotion_code_error">优惠代码已失效</string>
+
+    <!-- Our Story Activity -->
+    <string name="origins_good_morning">GOOD MORNINGGLOBAL®的创立</string>
+
+    <string name="visit_website">访问网站</string>
+
+    <string name="origins_first">“GOODMORNINGGlobal®始于一个简单的梦想;
+        每个人都可以享受健康，实现自己的人生目标“</string>
+
+    <string name="origins_second">“早上好”是所有语言中已知的问候。这是礼貌的表达;
+        它打破了冰，并建立关系，
+        这意味着新的一天的开始问候。</string>
+
+    <string name="origins_third">GOODMORNINGGlobal®始于一个简单的梦想;
+        每个人都可以享受健康，实现自己的人生目标;
+        创造优越的终生职业，实现了富裕的生活。</string>
+
+    <string name="origins_fourth">一旦启动进取掌握早安Global®的方向，他们将能够享受一个稳定的发展时期。</string>
+
+    <string name="origins_last">我们有信心扩张，继亚洲健康和护肤品行业的迅速崛起 - 一个行业是发展最快的全球增长以及之一。
+        GoodMorning®是一个强大的公司，准备在国际增长。</string>
+
+
+    <!-- Edit Details Activity -->
+    <string name="cbo_reminder">设置为默认的结算信息</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!--Others-->
+    <string name="hi">你好</string>
+    <string name="connection">No connection, please try again无连接，请再试一次</string>
+    <string name="connection_timeout">对不起，连接超时</string>
+    <string name="proceed_failed">无法继续，请重试</string>
+    <string name="warning">警告</string>
+    <string name="coonection_failed">无连接，请再试一次</string>
+    <string name="no_file">无文件</string>
+    <string name="file_exist">该文件是存在于</string>
+    <string name="download_file">下载文件</string>
+    <string name="choose_an_application">选择一个应用程序:</string>
+    <string name="error_cannot_resume">错误不能恢复</string>
+    <string name="error_device_no_found">错误未找到设备</string>
+    <string name="error_file_already_exists">错误文件已经存在</string>
+    <string name="error_file_error">错误文件错误</string>
+    <string name="error_http_data_error">HTTP错误数据出错</string>
+    <string name="error_insufficient_space">错误空间不足</string>
+    <string name="error_too_many_redirects">错误过多的重定向</string>
+    <string name="error_unhandled_HTTP_code">错误未处理的HTTP代码</string>
+    <string name="error_unknown">未知错误</string>
+    <string name="is_failed">失败:</string>
+    <string name="is_paused">暂停:</string>
+    <string name="is_completed">完成了</string>
+    <string name="paused_queued_for_wifi">暂停排队支持WiFi</string>
+    <string name="paused_unknown">已暂停不明</string>
+    <string name="paused_waiting_for_network">已暂停等待网络</string>
+    <string name="paused_waiting_to_retry">已暂停等待重试</string>
+    <string name="pending">有待</string>
+    <string name="running">运行</string>
+</resources>

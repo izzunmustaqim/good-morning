@@ -1,0 +1,61 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rv"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:padding="3dp">
+
+    <com.applab.goodmorning.Utilities.SquareImageView
+        android:id="@+id/imgAlbum"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/photo" />
+    <ProgressBar
+        android:id="@+id/progressBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_alignBottom="@+id/imgAlbum"
+        android:layout_alignLeft="@+id/imgAlbum"
+        android:layout_alignRight="@+id/imgAlbum"
+        android:background="@color/transparent"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp">
+
+        <TextView
+            android:id="@+id/txtName"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="1dp"
+            android:layout_weight="2"
+            android:ellipsize="end"
+            android:gravity="start"
+            android:lines="1"
+            android:text="Company Trip"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/smaller_text_size"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/txtNoPhoto"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_margin="1dp"
+            android:layout_weight="0.5"
+            android:ellipsize="end"
+            android:gravity="center"
+            android:lines="1"
+            android:text="26"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/smaller_text_size"
+            android:textStyle="bold" />
+    </LinearLayout>
+</RelativeLayout>

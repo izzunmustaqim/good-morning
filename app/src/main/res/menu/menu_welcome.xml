@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_shop"
+        app:showAsAction="always"
+        android:title="@string/action_empty"
+        app:actionLayout="@layout/custom_cart_notification" />
+    <item
+        android:id="@+id/action_menu"
+        android:icon="@mipmap/account"
+        android:title="@string/action_empty"
+        app:showAsAction="ifRoom" />
+</menu>

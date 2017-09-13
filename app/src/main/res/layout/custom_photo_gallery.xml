@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rl"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="3dp">
+
+    <com.applab.goodmorning.Utilities.SquareImageView
+        android:id="@+id/imgPhotos"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/photo" />
+
+    <ImageView
+        android:id="@+id/imgPlay"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/large_banner"
+        android:layout_centerVertical="true"
+        android:layout_margin="1dp"
+        android:gravity="center"
+        android:padding="32dp"
+        android:src="@mipmap/playback_transparent"
+        android:visibility="gone" />
+</RelativeLayout>

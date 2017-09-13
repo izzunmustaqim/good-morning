@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/color_white"
+    android:orientation="horizontal"
+    android:padding="6dp">
+
+    <ImageView
+        android:id="@+id/img1"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center"
+        android:padding="6dp"
+        android:src="@mipmap/number1_brown" />
+
+    <TextView
+        android:id="@+id/txtCart"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:paddingLeft="4dp"
+        android:paddingRight="4dp"
+        android:text="@string/cart"
+        android:textColor="@color/color_primary_text" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="4dp"
+        android:paddingRight="4dp"
+        android:src="@mipmap/line" />
+
+    <ImageView
+        android:id="@+id/img2"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center"
+        android:padding="6dp"
+        android:src="@mipmap/number2_brown" />
+
+    <TextView
+        android:id="@+id/txtDelivery"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:paddingLeft="4dp"
+        android:paddingRight="4dp"
+        android:text="@string/delivery"
+        android:textColor="@color/color_primary_text" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="4dp"
+        android:paddingRight="4dp"
+        android:src="@mipmap/line" />
+
+    <ImageView
+        android:id="@+id/img3"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center"
+        android:padding="6dp"
+        android:src="@mipmap/number3_brown" />
+
+    <TextView
+        android:id="@+id/txtPaymentMethod"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:paddingLeft="4dp"
+        android:paddingRight="4dp"
+        android:text="@string/payment_method"
+        android:textColor="@color/color_primary_text" />
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="4dp"
+        android:paddingRight="4dp"
+        android:src="@mipmap/line" />
+
+    <ImageView
+        android:id="@+id/img4"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center"
+        android:padding="6dp"
+        android:src="@mipmap/number4_brown" />
+
+    <TextView
+        android:id="@+id/txtConfirmation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:paddingLeft="4dp"
+        android:paddingRight="4dp"
+        android:text="@string/confirmation"
+        android:textColor="@color/color_primary_text" />
+
+</LinearLayout>
